@@ -153,13 +153,13 @@ body {
   }
 
   body {
-    height: auto;
+    /* height: auto; */
   }
 
   #main {
     grid-template-rows: repeat(3, 1fr);
     grid-template-columns: 100%;
-    margin: 4rem 0 2.5rem;
+   /* margin: 4rem 0 2.5rem; */
     max-width: 450px;
   }
 
