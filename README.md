@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Single Price Grid Component Screenshot](./Screenshot 2023-01-03 19.14.57.png)
+![Single Price Grid Component Screenshot](https://github.com/Marchino5791/Frontend-Mentor-Single-Price-Grid/blob/main/Screenshot%202023-01-03%2019.14.57.png)
 
 ### Links
 
